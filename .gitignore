@@ -252,17 +252,3 @@ app/google-services.json
 
 
 
-# Misc
-*.keystore
-# === Firebase config ===
-app/google-services.json
-
-# === Version catalog ===
-gradle/libs.versions.toml
-
-# === Gradle wrapper ===
-gradle/wrapper/gradle-wrapper.properties
-gradle/wrapper/gradle-wrapper.jar
-
-# === Local gradle config (optional) ===
-gradle.properties
